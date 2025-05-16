@@ -61,17 +61,16 @@ router.get('/', async (req, res) => {
 *_Made With 🚬🗿_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN PEACEMAKER MD 』*
-║ _SUCCESSFULLY CONNECTED 🔥✅._
+║ *『𝘼𝙈𝘼𝙕𝙄𝙉𝙂 𝙔𝙊𝙐'𝙑𝙀 𝘾𝙃𝙊𝙎𝙀𝙉 𝙋𝙀𝘼𝘾𝙀𝙈𝘼𝙆𝙀𝙍 𝙈𝘿』*
+║ _𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿🔥✅._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com
 ║❒ *Owner:* https://wa.me/254726293089_
-║❒ *Repo:* _https://github.com/Peacemaker-cyber_
-║❒ *WaGroup:* _https://chat.whatsapp.com/DiTntMqF0hZFoUvI0eQr5s
-║❒ *WaChannel:* _
-║❒ *Plugins:* _https://github.com/Peacemaker-cyber 
+║
+║❒ *WaGroup:* _https://chat.whatsapp.com/C9uSfX68fg4F4hpbRhX7CW
+║❒ 
+║❒ 
 ╚════════════════════════╝
 _____________________________________
 
