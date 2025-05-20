@@ -59,18 +59,18 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝘾𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙 𝘽𝙮 𝙋𝙀𝘼𝘾𝙀𝙈𝘼𝙆𝙀𝙍*
+*_𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝘾𝙤𝙣𝙣𝙚𝙘𝙩𝙚𝙙 𝘽𝙮 WILLSON*
 *_𝙈𝙖𝙙𝙚 𝙬𝙞𝙩𝙝 🤍_*
 ______________________________________
 ╔════◇
-║ *『𝘼𝙈𝘼𝙕𝙄𝙉𝙂 𝙔𝙊𝙐'𝙑𝙀 𝘾𝙃𝙊𝙎𝙀𝙉 𝙋𝙀𝘼𝘾𝙀𝙈𝘼𝙆𝙀𝙍 𝙈𝘿』*
+║ *『𝘼𝙈𝘼𝙕𝙄𝙉𝙂 𝙔𝙊𝙐'𝙑𝙀 𝘾𝙃𝙊𝙎𝙀𝙉 WILLSON 𝙈𝘿』*
 ║ _𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿🔥✅._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* https://wa.me/254726293089_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C9uSfX68fg4F4hpbRhX7CW
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5O5AGEawdqTdMRj514
+║❒ *Owner:* https://wa.me/2347040363978_
+║❒ *WaGroup:*
+║❒ *WaChannel:* _
 ╚════════════════════════╝
 _____________________________________
 	
